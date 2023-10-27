@@ -4,5 +4,5 @@ Link to the Colab file: https://colab.research.google.com/drive/1Cqa4T1p1fPpwn76
 
 The 3 mini-projects are stated below:
 1. Estimate the occurrence of a supermoon using the ephemeris data for the moon.
-2. Determine the type of galaxy(spiral, elliptical or merger) using spectral data.
+2. Determine the type of galaxy(spiral, elliptical or merger) using photometric data.
 3. Predict whether an object is a star or not (amongst Galaxies, QSOs and stars) [from a CSV file containing their spectra]. Using the predictions, also classify the type of star(red, yellow giants, or dwarfs etc.)
